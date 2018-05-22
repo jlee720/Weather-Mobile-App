@@ -26,7 +26,7 @@ const weatherTypes = {
   Thunderstorm: {
     colors: ['#00ECBC', '#007ADF'],
     icon: 'weather-lightning',
-    info: 'Thuderstorm',
+    info: 'Thunderstorm',
     subInfo: 'Gotta stay home..'
   }
 }
